@@ -3,8 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${3:background-image: none;
-}filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='${1:${TM_SELECTED_TEXT:/images/transparent.png}}', sizingMethod='${2:image/scale/crop}');</string>
+	<string>behavior: url(/apps/shared/iepngfix.htc);$0	</string>
 	<key>name</key>
 	<string>IE png</string>
 	<key>scope</key>
