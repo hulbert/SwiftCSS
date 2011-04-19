@@ -1,7 +1,7 @@
-=== INSTALLATION ===
+## Info
 
-cd ~/Library/"Application Support"/TextMate/Bundles/
+This is a modified version of the excellent TextMate bundle [mCSS](http://minimaldesign.net/downloads/tools/textmate-css-bundle), adjusted for my coding practices.
 
-if that directory wasn't found, you'll need to create it, then:
+## Installation
 
-git clone git://github.com/minimaldesign/mCSS.tmbundle.git "mCSS.tmbundle"
+Click Downloads, choose .ZIP file. Once downloaded, unzip and double-click on the swiftcss.tmbundle.
